@@ -1,0 +1,17 @@
+Oppgave 2
+1. Hva er innkapsling? Hvorfor er det nyttig?
+
+innkapsling vil kunne hindre en i å ha direkte tilgang til de ulike klassene.
+
+2. Hva er grensesnittet til en klasse? Hvordan skiller det seg fra implementasjonen av
+en klasse?
+
+Grensesnittet vil kunne inskrenke det vi ser ned til bare opperasjonen. Og dette vil bli
+best av objektets klasse.
+
+3. Hva er en instansmetode (ofte kalt bare metode), og hvordan skiller metoder seg fra
+prosedyrene/funksjonene vi har jobbet med hittil?
+
+For å kunne kalle på en metode så trenger vi å benytte oss av objekter da vil den kunne 
+brukes som prosedyrer og funksjoner
+

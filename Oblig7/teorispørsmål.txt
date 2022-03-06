@@ -1,0 +1,13 @@
+oppgave 3
+1. Lagt til i egen .pdf fil. 
+
+2. Det vil kunne være naturlig å velge liste her fordi at hvis vi bruker en ordbok så må vi til hver tid
+forholde oss til nøkkelverdier og innholdsverdier dersom vi skal søke noe opp og det vil kunne fort bli
+uoversiktlig. Det vil også være lettere å legge til i lister enn det der er for orbok fordi at ordbøker
+krever at vi skal dele elementer opp og sette de inn i nøkkelverdier og innholdsverdier. 
+
+3. Ved at man for eksempel setter opp en metode for innlesningen så vil man kunne lese fra flere filer i
+samme spillelisten. Det vil også gjøre sånn at det blir mindre arbeid og da slipper den å lese fra filen 
+hver gang man lager nye objekter med klassen. 
+
+4. Da må vi nok bytte om på paramenteren inn i finnSang() i klassen Spilleliste. 
